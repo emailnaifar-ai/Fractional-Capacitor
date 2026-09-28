@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it as below and cite the associated article
+  once it is published.
+title: >-
+  Fractional-Capacitor: code for "When Is a Variable-Order Fractional Capacitor Passive?
+  Energy Identity, Rate Condition, and a Certified Counterexample"
+type: software
+authors:
+  # AUTHOR ACTION REQUIRED: replace with the real author list (and ORCID iDs, if available).
+  - family-names: "TO BE COMPLETED"
+    given-names: "TO BE COMPLETED"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/emailnaifar-ai/Fractional-Capacitor"
+keywords:
+  - variable-order fractional calculus
+  - passivity
+  - fractional capacitor
+  - Volterra operator
+  - interval arithmetic
+  - L1 scheme

@@ -1,0 +1,11 @@
+# Conda environment (alternative to requirements.txt):
+#   conda env create -f environment.yml
+#   conda activate fractional-capacitor
+name: fractional-capacitor
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements.txt

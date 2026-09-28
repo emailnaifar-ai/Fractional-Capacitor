@@ -1,0 +1,6 @@
+# Tested versions (Python 3.12.10, Windows 11). Newer versions should work;
+# numpy.trapezoid requires NumPy >= 2.0.
+numpy==2.4.6
+scipy==1.17.1
+mpmath==1.3.0
+matplotlib==3.10.9
