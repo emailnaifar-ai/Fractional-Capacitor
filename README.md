@@ -3,7 +3,7 @@
 This repository contains the code and numerical results for the article:
 
 > **When Is a Variable-Order Fractional Capacitor Passive? Energy Identity, Rate Condition, and a Certified Counterexample**
-> (submitted to *Chaos, Solitons & Fractals*)
+> 
 
 It reproduces every figure, table and reported number of the article. That includes the interval-arithmetic (certified) computations.
 
